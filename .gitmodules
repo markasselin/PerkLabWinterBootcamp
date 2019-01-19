@@ -1,0 +1,6 @@
+[submodule "Session4 - Slicer 4 Programming/LumpNav"]
+	path = Session4 - Slicer 4 Programming/LumpNav
+	url = https://github.com/SlicerIGT/LumpNav.git
+[submodule "Session4 - Slicer 4 Programming/TrackingErrorCalculator"]
+	path = Session4 - Slicer 4 Programming/TrackingErrorCalculator
+	url = https://github.com/markasselin/TrackingErrorCalculator
